@@ -99,32 +99,4 @@ This tutorial addresses:
 
 MIT License - See LICENSE file for details
 
-## Author
 
-[Your Name]  
-MSc Cybersecurity/Data Science Student  
-University of Hertfordshire
-
-## Acknowledgments
-
-- UCI Machine Learning Repository for providing the dataset
-- Scikit-learn developers for the excellent ML library
-- Original Random Forest paper by Leo Breiman (2001)
-
-## References
-
-1. Breiman, L. (2001). Random Forests. Machine Learning, 45(1), 5-32.
-2. Kelly, M., et al. CDC Diabetes Health Indicators Dataset. UCI ML Repository.
-3. Pedregosa, F., et al. (2011). Scikit-learn: Machine Learning in Python. JMLR, 12, 2825-2830.
-
-## Contributing
-
-This is an educational project. Feel free to fork and adapt for your own learning purposes.
-
-## Contact
-
-For questions or feedback: [your-email@example.com]
-
----
-
-**Note:** This tutorial was created as part of a Neural Networks and Machine Learning course assignment (March 2026).
